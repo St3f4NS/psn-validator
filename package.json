@@ -1,0 +1,14 @@
+{
+  "name": "psn-validator",
+  "version": "1.0.0",
+  "repository": {
+    "type": "git",
+    "url": "XX"
+  },  "description": "Playstation username validator",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Singular Minds",
+  "license": "MIT"
+}
